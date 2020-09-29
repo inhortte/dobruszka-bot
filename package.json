@@ -1,0 +1,29 @@
+{
+  "name": "dobruszka-bot",
+  "version": "1.0.0",
+  "description": "A Dobruszka Simulator",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/inhortte/dobruszka-bot.git"
+  },
+  "keywords": [
+    "dobruszka",
+    "telegram"
+  ],
+  "author": "Bobbus Mustelidus",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/inhortte/dobruszka-bot/issues"
+  },
+  "homepage": "https://github.com/inhortte/dobruszka-bot#readme",
+  "dependencies": {
+    "axios": "^0.20.0",
+    "pg": "^8.3.3",
+    "ramda": "^0.27.1",
+    "telegraf": "^3.38.0"
+  }
+}
